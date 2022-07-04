@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/tati/Documents/Entra21/Poo_Entra21/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+3197559834.index
+919009270.index
