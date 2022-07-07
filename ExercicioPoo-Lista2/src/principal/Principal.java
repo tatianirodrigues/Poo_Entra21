@@ -41,8 +41,9 @@ double somaSalarios = 0;
 		Gerente gerente1 = new Gerente(4000,520);
 		funcionarios.add(gerente1);
 		
-		Diretor diretor1 = new Diretor(1200,"01/05/2007");
+		Diretor diretor1 = new Diretor(12000,"01/05/2007");
 		diretor1.setDataAdmissaoEmpresa("01/05/2007");
+		funcionarios.add(diretor1);
 		
 		
 		for(int i=0; i<funcionarios.size(); i++) {
