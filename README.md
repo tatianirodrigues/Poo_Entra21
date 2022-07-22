@@ -1,1 +1,2 @@
-Exercícios da disciplina de Programação Orientada à Objetos no curso ENTRA-21
+<h2>Exercícios da disciplina de Programação Orientada à Objetos no curso ENTRA-21</h2>
+Quando faz parte de uma lista de Exercício, dentro da pasta tem um arquivo em pdf com o enunciado das questões que foram resolvidas.
